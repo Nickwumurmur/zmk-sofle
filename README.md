@@ -27,3 +27,4 @@
 
 ![Sofle键位图](keymap-drawer/eyelash_sofle.svg)
 
+設定網址：https://nickcoutsos.github.io/keymap-editor/
